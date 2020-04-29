@@ -58,3 +58,4 @@ ValgrindOut.xml
 *.sh
 *.conf
 *.pdf
+.vscode/**
